@@ -86,6 +86,7 @@ main {
   place-items: center;
   border-radius: 100%;
   z-index: 2;
+  cursor: pointer;
 }
 .card-footer #shareIcon {
   fill: hsl(214deg, 17%, 51%);
@@ -118,6 +119,7 @@ main {
 .share-active button {
   background-color: transparent;
   border: none;
+  cursor: pointer;
 }
 
 footer {
